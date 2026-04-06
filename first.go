@@ -1,49 +1,7 @@
 
-
-
-//////////////////////////////////////////////////////////////////
-
-// package main
-
-// import "fmt"
-// import "time"
-
-// func add(n int)	int {
-// 	if(n == 1) {
-// 		return 1
-// 	}
-// 	n+=add(n-1)
-// 	time.sleep(1000)
-
-// 	return n
-// }
-
-// func main() {
-// 	fmt.Println(add(5))
-// }
-
 ///////////////////////////////////////////////////////////////////
 
-// package main
 
-// import "log"
-
-// func reverse(s string) string {
-// 	if len(s) == 0 {
-// 		return ""
-// 	}
-// 	k := ""
-// 	k += reverse(s[1:])
-// 	k += string(s[0])
-
-// 	return k
-// }
-
-// func main() {
-
-// 	s1 := reverse("Hello, World!")
-// 	log.Println(s1)
-// }
 
 // ///////////////////////////////////////////////////////////////
 

@@ -18,5 +18,5 @@ func isPowerOfFour(n int) bool {
 }
 
 func main() {
-	fmt.Println(isPowerOfFour(17))
+	fmt.Println(isPowerOfFour(-4))
 }
